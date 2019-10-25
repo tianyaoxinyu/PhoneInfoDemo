@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hehoo.phone.view.MaxHeightRecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rclArea"
+    android:layout_width="48dp"
+    android:background="@drawable/register_pop_rcl_bg"
+    app:maxHeight="146dp"
+    android:scrollbars="vertical"
+    android:scrollbarThumbVertical="@drawable/register_scrollbars_bg"
+    android:layout_height="wrap_content" />
+
